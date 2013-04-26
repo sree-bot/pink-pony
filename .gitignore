@@ -39,3 +39,5 @@ nosetests.xml
 # Custom ignore settings
 env
 app.db
+db_repository
+mine.py
